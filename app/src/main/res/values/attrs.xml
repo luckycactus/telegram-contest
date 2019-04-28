@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="themePrimaryColor" format="reference"/>
+    <attr name="themePrimaryDarkColor" format="reference"/>
+    <attr name="themeWindowBackgroundColor" format="reference"/>
+</resources>

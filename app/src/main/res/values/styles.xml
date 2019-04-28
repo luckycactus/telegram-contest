@@ -1,0 +1,45 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Holo.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:windowBackground">?themeWindowBackgroundColor</item>
+    </style>
+
+    <style name="AppTheme.Day">
+        <item name="android:textColor">@color/dayTextColor</item>
+        <item name="themePrimaryColor">@color/dayColorPrimary</item>
+        <item name="themePrimaryDarkColor">@color/dayColorPrimaryDark</item>
+        <item name="themeWindowBackgroundColor">@color/dayBackgroundColor</item>
+        <item name="themeYAxisLineColor">@color/dayYAxisLineColor</item>
+        <item name="themeLabelColor">@color/dayLabelColor</item>
+        <item name="themeScrollbarOverlayColor">@color/dayScrollbarOverlayColor</item>
+        <item name="themeScrollbarFrameColor">@color/dayScrollbarFrameColor</item>
+        <item name="themeChartBackgroundColor">@color/dayChartBackgroundColor</item>
+        <item name="themeChartTitleColor">@color/dayChartTitleColor</item>
+        <item name="themeDividerColor">@color/dayDividerColor</item>
+        <item name="themeBubbleColor">@color/dayBubbleColor</item>
+        <item name="themeBubbleTitleColor">@color/dayBubbleTitleColor</item>
+        <item name="themeBubbleLineColor">@color/dayBubbleLineColor</item>
+        <item name="themeCheckColor">@color/dayCheckColor</item>
+    </style>
+
+    <style name="AppTheme.Night">
+        <item name="android:textColor">@color/nightTextColor</item>
+        <item name="themePrimaryColor">@color/nightColorPrimary</item>
+        <item name="themePrimaryDarkColor">@color/nightColorPrimaryDark</item>
+        <item name="themeWindowBackgroundColor">@color/nightBackgroundColor</item>
+        <item name="themeYAxisLineColor">@color/nightYAxisLineColor</item>
+        <item name="themeLabelColor">@color/nightLabelColor</item>
+        <item name="themeScrollbarOverlayColor">@color/nightScrollbarOverlayColor</item>
+        <item name="themeScrollbarFrameColor">@color/nightScrollbarFrameColor</item>
+        <item name="themeChartBackgroundColor">@color/nightChartBackgroundColor</item>
+        <item name="themeChartTitleColor">@color/nightChartTitleColor</item>
+        <item name="themeDividerColor">@color/nightDividerColor</item>
+        <item name="themeBubbleColor">@color/nightBubbleColor</item>
+        <item name="themeBubbleTitleColor">@color/nightBubbleTitleColor</item>
+        <item name="themeBubbleLineColor">@color/nightBubbleLineColor</item>
+        <item name="themeCheckColor">@color/nightCheckColor</item>
+    </style>
+
+</resources>

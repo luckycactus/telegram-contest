@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="themeChartBackgroundColor" format="reference"/>
+    <attr name="themeYAxisLineColor" format="reference"/>
+    <attr name="themeLabelColor" format="reference"/>
+    <attr name="themeScrollbarOverlayColor" format="reference"/>
+    <attr name="themeScrollbarFrameColor" format="reference"/>
+    <attr name="themeChartTitleColor" format="reference"/>
+    <attr name="themeDividerColor" format="reference"/>
+    <attr name="themeBubbleColor" format="reference"/>
+    <attr name="themeBubbleTitleColor" format="reference"/>
+    <attr name="themeBubbleLineColor" format="reference"/>
+    <attr name="themeCheckColor" format="reference"/>
+</resources>

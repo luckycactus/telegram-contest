@@ -1,0 +1,27 @@
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/actionBarSize"
+    >
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:fontFamily="sans-serif-medium"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        tools:text="ActionBar title" />
+
+    <ImageView
+        android:id="@+id/btnTheme"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:layout_weight="0"
+        android:scaleType="centerInside"
+        android:src="@drawable/ic_moon"
+        android:background="@drawable/selectable_item_background_borderless"
+        />
+
+</merge>

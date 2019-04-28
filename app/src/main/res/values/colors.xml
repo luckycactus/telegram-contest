@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dayColorPrimary">#5A7C9F</color>
+    <color name="dayColorPrimaryDark">#48637F</color>
+    <color name="dayTextColor">#222222</color>
+    <color name="dayBackgroundColor">#F0F0F0</color>
+    <color name="dayYAxisLineColor">#E0E8F0</color>
+    <color name="dayLabelColor">#999FA5</color>
+    <color name="dayScrollbarOverlayColor">#CCF0F3F4</color>
+    <color name="dayScrollbarFrameColor">#33497B9F</color>
+    <color name="dayChartBackgroundColor">#FFFFFF</color>
+    <color name="dayChartTitleColor">#5195CF</color>
+    <color name="dayDividerColor">#E0E0E0</color>
+    <color name="dayBubbleColor">#FEFEFE</color>
+    <color name="dayBubbleTitleColor">#222222</color>
+    <color name="dayBubbleLineColor">#E6EBEF</color>
+    <color name="dayCheckColor">#F0F0F0</color>
+
+    <color name="nightColorPrimary">#232D3A</color>
+    <color name="nightColorPrimaryDark">#1C242D</color>
+    <color name="nightTextColor">#ffffff</color>
+    <color name="nightBackgroundColor">#171E26</color>
+    <color name="nightYAxisLineColor">#171E29</color>
+    <color name="nightLabelColor">#52626F</color>
+    <color name="nightScrollbarOverlayColor">#CC171E26</color>
+    <color name="nightScrollbarFrameColor">#33497B9F</color>
+    <color name="nightChartBackgroundColor">#1E2631</color>
+    <color name="nightChartTitleColor">#5195CF</color>
+    <color name="nightDividerColor">#0C131D</color>
+    <color name="nightBubbleColor">#222B37</color>
+    <color name="nightBubbleTitleColor">#E7EFF4</color>
+    <color name="nightBubbleLineColor">#151C25</color>
+    <color name="nightCheckColor">#F0F0F0</color>
+
+</resources>
